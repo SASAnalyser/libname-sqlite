@@ -2,7 +2,7 @@
 
 1. Installation:
 
-Download the https://github.com/SASAnalyser/PROC-JIEBA/releases/download/1.0/libname-sqlite_win_x64.zip and unzip it to <SASHome>\SASFoundation\9.4\core\sasexe
+Download the https://github.com/SASAnalyser/PROC-JIEBA/releases/download/1.0/libname-sqlite_win_x64.zip and unzip it to SASHome\SASFoundation\9.4\core\sasexe
 
   
 2. Usage:
